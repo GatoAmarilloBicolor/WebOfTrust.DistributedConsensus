@@ -13,3 +13,4 @@ Bitcoin - 1AJN5pjqp1QhtSyKdxxUhkh1YRcd5p8jTH
 Ether - 0x7991e7999f97D24A9B7415015fAFF74a8195519f
 
 Bitcoin Cash - qpnqrnvq972czz49a8qsedxzh3e6hlh54qmym4tw8s
+![](https://us1sw1zeropki1githublogs.blob.core.windows.net/public/FF4D00-0.8.png?target=WOTConsensus&Page=home)
